@@ -1,0 +1,36 @@
+@page
+@model TransactionsModel
+@{
+    ViewData["Title"] = "Transactions";
+}
+
+<h2>Uploaded Transactions</h2>
+
+@if (Model.Transactions.Any())
+{
+    <table>
+        <thead>
+            <tr>
+                <th>Date</th>
+                <th>Description</th>
+                <th>Amount</th>
+                <th>Category</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var tx in Model.Transactions)
+            {
+                <tr>
+                    <td>@tx.Date.ToShortDateString()</td>
+                    <td>@tx.Description</td>
+                    <td>@tx.Amount</td>
+                    <td>@tx.Category</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No transactions found.</p>
+}

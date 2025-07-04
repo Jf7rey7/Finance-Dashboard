@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "84yR4mbVfAs=",
+  "success": true,
+  "projectFilePath": "/Users/jeffreyfrancis/Downloads/FinanceDashboard/FinanceDashboard.csproj",
+  "expectedPackageFiles": [
+    "/Users/jeffreyfrancis/.nuget/packages/microsoft.entityframeworkcore.tools/9.0.6/microsoft.entityframeworkcore.tools.9.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

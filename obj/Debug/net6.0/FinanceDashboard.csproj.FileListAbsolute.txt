@@ -1,0 +1,7 @@
+/Users/jeffreyfrancis/Downloads/FinanceDashboard/obj/Debug/net6.0/FinanceDashboard.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffreyfrancis/Downloads/FinanceDashboard/obj/Debug/net6.0/FinanceDashboard.AssemblyInfoInputs.cache
+/Users/jeffreyfrancis/Downloads/FinanceDashboard/obj/Debug/net6.0/FinanceDashboard.AssemblyInfo.cs
+/Users/jeffreyfrancis/Downloads/FinanceDashboard/obj/Debug/net6.0/FinanceDashboard.csproj.CoreCompileInputs.cache
+/Users/jeffreyfrancis/Downloads/FinanceDashboard/obj/Debug/net6.0/FinanceDashboard.MvcApplicationPartsAssemblyInfo.cache
+/Users/jeffreyfrancis/Downloads/FinanceDashboard/obj/Debug/net6.0/FinanceDashboard.RazorAssemblyInfo.cache
+/Users/jeffreyfrancis/Downloads/FinanceDashboard/obj/Debug/net6.0/FinanceDashboard.RazorAssemblyInfo.cs
